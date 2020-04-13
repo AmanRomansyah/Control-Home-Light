@@ -3,4 +3,3 @@ fun project to control lights using local web and telegram with raspberry pi
 
 README file in all folders to be able to install this project
 
-any questions can ask me in this email
