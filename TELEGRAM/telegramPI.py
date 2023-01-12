@@ -175,7 +175,7 @@ def action(msg):
 #		message="Asap/gas tak terdeteksi"
 #		telegram_bot.sendMessage(id, message)
 
-telegram_bot = telepot.Bot('659612696:AAEuM5DfO91p13ADLE37CSOpoGfVdqSDP7I')
+telegram_bot = telepot.Bot('6596*****6:AAEuM5DfO91p13********')
 print (telegram_bot.getMe())
 
 MessageLoop(telegram_bot, action).run_as_thread()
