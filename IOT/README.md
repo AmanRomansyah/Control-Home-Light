@@ -9,7 +9,6 @@
   - sudo apt-get install php
   - cd /var/www/html
   - mkdir IOT
-  - cd
 
 - and copy all file to /var/www/html/IOT
 
