@@ -11,7 +11,4 @@
   - sudo pip install telepot
 
 
-- run this code
-  -python3 telegramPI.py
-
 
