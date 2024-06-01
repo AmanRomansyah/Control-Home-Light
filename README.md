@@ -1,4 +1,3 @@
 # Control Home Light
-fun project to control lights using local web and telegram with raspberry pi
-
+A fun project to control lights using a local web interface and a Telegram bot with a Raspberry Pi.
 
